@@ -9,6 +9,7 @@
   },
   "main": "./out/htmlServerMain",
   "dependencies": {
+    "typescript": "^3.8.3",
     "vscode-css-languageservice": "^4.1.0",
     "vscode-html-languageservice": "3.0.4-next.15",
     "vscode-languageserver": "^6.1.1",
